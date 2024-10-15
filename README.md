@@ -23,4 +23,5 @@ Multiply 2 by 10:
 To run the unit tests, enter 'python -m unittest calctest.py' into the shell.
 
 ![image](https://github.com/user-attachments/assets/b4c52458-5ae3-43ad-9874-5cbd27897756)
-The code makes use of the in built Python unittest module. It checks the results of a number of calculations, as well as dividing by zero. 
+
+The code makes use of the in built Python unittest module. It checks the results of a number of calculations, as well as dividing by zero. If all tests pass "OK" is returned. 
